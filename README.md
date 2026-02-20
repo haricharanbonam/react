@@ -9,3 +9,4 @@ Am I reacting to a user action?
 
 Am I reacting to state change regardless of how it changed?
 → Use useEffect.
+each with its own build system (Next.js uses Turbo/Webpack, while Vite uses Rollup). Next.js is a full-stack framework (SSR/SSG), while Vite is a frontend build tool usually for CSR.
